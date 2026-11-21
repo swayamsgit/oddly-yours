@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+numpy
+scipy
+fastembed
+langgraph
+argon2-cffi
+httpx
+pytest
+llama-cpp-python
